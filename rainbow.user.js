@@ -4,6 +4,7 @@
 // @author clxxiii
 // @description Turns your screen into rainbow vomit
 // @grant    none
+// @include *
 // ==/UserScript==
 
 function addGlobalStyle(css) {
